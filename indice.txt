@@ -1,0 +1,4 @@
+Rama chistes - Contiene un archivo con un chiste
+Rama adivinanzas - Contiene un archivo con una adivinanza
+Rama trabalenguas - Contiene un archivo con un trabalenguas
+Rama refranes - Contiene un archivo con un refran
